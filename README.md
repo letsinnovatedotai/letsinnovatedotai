@@ -1,6 +1,6 @@
 Company Name : letsinnovate.ai
 
-Registered Location : Agra
+Registered Location : Agra, UP
 
 Founded : 2025
 
